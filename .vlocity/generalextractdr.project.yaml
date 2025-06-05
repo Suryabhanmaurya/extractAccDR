@@ -1,0 +1,7 @@
+Name: GeneralExtractDR
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - DataRaptor/FetchAccountData
+VlocityTypesToFetch:
+    - DataRaptor
+SalesforceTypesToFetch:
